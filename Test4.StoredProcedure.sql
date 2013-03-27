@@ -1,4 +1,3 @@
-K1
 Hallo
 
 MOIN
