@@ -1,4 +1,4 @@
-Ladida
+Hallo
 
 Apfel
 DECLARE @fShippingCost float
