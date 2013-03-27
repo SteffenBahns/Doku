@@ -16,7 +16,7 @@ from
 	Für alle
 group by
 	Aber hier
-into #res03
+into Nochmals Test Funktion 2
 from 
 	Demokunde_DWH.dbo.ads ads
 	join #tmp t
