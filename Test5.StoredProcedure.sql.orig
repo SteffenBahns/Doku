@@ -1,5 +1,10 @@
+<<<<<<< HEAD
 K2
+Ladida
+=======
+K1
 Hallo
+>>>>>>> origin/master-K1
 
 Apfel
 DECLARE @fShippingCost float
