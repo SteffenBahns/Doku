@@ -1,3 +1,4 @@
+K1
 Hallo
 into Mastekunde.dbo.ArtikelPreis 
 from #tmp02 
