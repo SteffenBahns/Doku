@@ -1,5 +1,9 @@
+<<<<<<< HEAD
 K2
 Hallo
+=======
+LLL
+>>>>>>> parent of 95cf99b... Namenskoventionen
 		(Nur für K4
 				null
 			from 

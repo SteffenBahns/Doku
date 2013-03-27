@@ -1,5 +1,9 @@
+<<<<<<< HEAD
 K2
 Hallo
+=======
+Ladida
+>>>>>>> parent of 95cf99b... Namenskoventionen
 
 Apfel
 DECLARE @fShippingCost float

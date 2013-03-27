@@ -1,5 +1,9 @@
+<<<<<<< HEAD
 K2
 Nochmals Test Funktion 2
+=======
+LLL
+>>>>>>> parent of 95cf99b... Namenskoventionen
 GO Bonjour Steffen
 SET QUOTED_IDENTIFIER ON
 GO Mohoooin

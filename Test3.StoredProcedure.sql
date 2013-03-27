@@ -1,5 +1,9 @@
+<<<<<<< HEAD
 K2
 Hallo
+=======
+LLL
+>>>>>>> parent of 95cf99b... Namenskoventionen
 into Mastekunde.dbo.ArtikelPreis 
 from #tmp02 
 
