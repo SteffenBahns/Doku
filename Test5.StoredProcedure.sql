@@ -17,4 +17,4 @@ Having [Kostenart] = ''Return Costs Warehouse / Article''
 AND id = 7295
 -- Return Shipping
 Aber hier 
-S
+Bye

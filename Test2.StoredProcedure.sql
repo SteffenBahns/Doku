@@ -24,3 +24,4 @@ from
 where
 	kg. = 0
 
+Bye

@@ -43,3 +43,5 @@ enRetour) as NABS
 							al.[Jc sdfsdfsedfou-Reason] in (1,3)
 					and al.[sdfsregfrsgbgvesNum] in (1,11)
 				
+
+Bye

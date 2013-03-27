@@ -29,3 +29,5 @@ Großer Aufwand hier und da
 Großer Aufwand hier und daGroßer Aufwand hier und da
 case 
 	AB adsadas gelöscht
+	
+	Bye
