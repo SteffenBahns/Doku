@@ -140,5 +140,5 @@ FROM [DWH_FACT_ORDERPOS] F
 -- Prozentwert => durch 100 teilen
 UPDATE [DWH_FACT_ORDERPOS]
 SET [MOS License Charge] = ((@fMOSLicCharge * F.NUMS_MOS_BD)/100)
-FROM [DWH_FACT_ORDERPOS] F
+FROM FACT F
 Bye
